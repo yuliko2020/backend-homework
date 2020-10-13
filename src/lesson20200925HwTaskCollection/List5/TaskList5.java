@@ -2,7 +2,7 @@ package lesson20200925HwTaskCollection.List5;
 
 import java.util.*;
 
-public class TaskList5 {
+public  class TaskList5 {
     public static void main(String[] args) {
         //Написать функцию, которая реверсирует список, возвращает список элементовв обратном порядке.
         // {1, 2, 3, 4, 5} -> {5, 4, 3, 2, 1}

@@ -9,7 +9,7 @@ public class Task1Person {
         //Есть два класса: Address с полями улица и номер дома и Person с полями имя иAddress.
         // Нужно написать функцию:List<Address> getAddresses(List<Person> persons)
         List<Address> addresses = new ArrayList<>();
-        Address address1 = new Address("First", 1);
+        Address address1 = new Address("First", 1 );
         Address address2 = new Address("Second", 2);
         Address address3 = new Address("Third", 3);
 

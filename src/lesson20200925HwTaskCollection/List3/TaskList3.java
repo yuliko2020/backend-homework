@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class TaskList3 {
+public class  TaskList3 {
     public static void main(String[] args) {
         //Есть два списка одинаковой длины с числами.
         // Написать функцию, которая вернет список с элементами Yes или No,

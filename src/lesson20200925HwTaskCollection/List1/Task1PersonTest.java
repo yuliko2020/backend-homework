@@ -13,7 +13,7 @@ class Task1PersonTest {
     public void getPersonAddress() {
         Address address1 = new Address("First", 1);
         Address address2 = new Address("Second", 2);
-        Address address3 = new Address("Third", 3);
+        Address address3 = new Address("Third", 3 );
         List<Address> addresses = Arrays.asList(address1, address2, address3);
 
         Person person1 = new Person("Oleg", address1);

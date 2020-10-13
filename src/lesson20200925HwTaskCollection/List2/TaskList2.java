@@ -7,7 +7,7 @@ import java.util.List;
  * JavaAdvanced
  * 08/10/2020
  */
-public class TaskList2 {
+public class TaskList2  {
     public static void main(String[] args) {
         //Есть список с именами: Ivan, Maria, Stephan, John, Amalia.
         // Написать функцию,которая вернет список,

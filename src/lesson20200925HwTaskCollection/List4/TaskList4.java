@@ -2,7 +2,7 @@ package lesson20200925HwTaskCollection.List4;
 
 import java.util.*;
 
-public class TaskList4 {
+public class  TaskList4 {
     public static void main(String[] args) {
         //Есть два списка с буквами. Определить, является ли один список циклической версией другого.
         // Например, для списков {aa, bb, cc, dd} и {cc, dd, aa, bb}результат будет true,

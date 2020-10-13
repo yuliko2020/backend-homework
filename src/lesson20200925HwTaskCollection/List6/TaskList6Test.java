@@ -8,7 +8,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class TaskList6Test {
+class  TaskList6Test {
     @Test
     public void CombineListTest() {
         List<Integer> listOne = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));

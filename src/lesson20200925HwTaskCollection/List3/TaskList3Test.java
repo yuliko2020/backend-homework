@@ -7,7 +7,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class TaskList3Test {
+class  TaskList3Test {
     @Test
     public void checkingListForYes() {
         List<Integer> list1 = Arrays.asList(1, 2, 3, 4);

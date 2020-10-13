@@ -8,7 +8,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class TaskList4Test {
+class  TaskList4Test {
     @Test
     public void checkListOneCircularAnotherTest() {
         List<String> listOne = new ArrayList<>(Arrays.asList("aa", "bb", "cc", "dd"));

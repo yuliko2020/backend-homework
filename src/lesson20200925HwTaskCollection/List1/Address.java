@@ -2,7 +2,7 @@ package lesson20200925HwTaskCollection.List1;
 
 public class Address {
     private String street;
-    private int house;
+    private int house ;
 
     public Address(String street, int house) {
         this.street = street;

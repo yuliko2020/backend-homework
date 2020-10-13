@@ -8,7 +8,7 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNull;
 
-class TaskList2Test {
+class TaskList2Test  {
 
     @Test
     public void checkingListLengthNotReturn4(){
